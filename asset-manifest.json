@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mobileRepairShop/static/js/main.0237133f.js",
+    "main.js": "/mobileRepairShop/static/js/main.a16449d2.js",
     "index.html": "/mobileRepairShop/index.html",
-    "main.0237133f.js.map": "/mobileRepairShop/static/js/main.0237133f.js.map"
+    "main.a16449d2.js.map": "/mobileRepairShop/static/js/main.a16449d2.js.map"
   },
   "entrypoints": [
-    "static/js/main.0237133f.js"
+    "static/js/main.a16449d2.js"
   ]
 }
